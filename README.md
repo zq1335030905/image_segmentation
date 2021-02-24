@@ -7,3 +7,11 @@ OpenCV3.1.0
 Debug:x64 
 
 
+## Demo
+![Test Image](https://github.com/zq1335030905/image_segmentation/blob/main/cat1.jpg)
+![Labeled Image](https://github.com/zq1335030905/image_segmentation/blob/main/cat1_label.jpg)
+![Segmentation Image](https://github.com/zq1335030905/image_segmentation/blob/main/cat1_result.jpg)
+
+![Running Result](https://github.com/zq1335030905/image_segmentation/blob/main/running_result.png)
+
+
