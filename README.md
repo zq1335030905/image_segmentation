@@ -9,15 +9,19 @@ Debug:x64
 
 ## Demo
 Test image:
+
 ![Test Image](https://github.com/zq1335030905/image_segmentation/blob/main/cat1.jpg)
 
 Labeled image:
+
 ![Labeled Image](https://github.com/zq1335030905/image_segmentation/blob/main/cat1_label.jpg)
 
 Segmentation result image:
+
 ![Segmentation Image](https://github.com/zq1335030905/image_segmentation/blob/main/cat1_result.jpg)
 
 Running result:
+
 ![Running Result](https://github.com/zq1335030905/image_segmentation/blob/main/running_result.png)
 
 
